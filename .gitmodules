@@ -1,6 +1,6 @@
 [submodule "DHCPClient/Libraries/ioLibrary_Driver"]
 	path = DHCPClient/Libraries/ioLibrary_Driver
 	url = https://github.com/Wiznet/ioLibrary_Driver
-[submodule "Loopback/TrueSTUDIO/W5100S_loopback/ioLibrary_Driver"]
-	path = Loopback/TrueSTUDIO/W5100S_loopback/ioLibrary_Driver
+[submodule "Loopback/TrueSTUDIO/ioLibrary_Driver"]
+	path = Loopback/TrueSTUDIO/ioLibrary_Driver
 	url = https://github.com/Wiznet/ioLibrary_Driver
